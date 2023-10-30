@@ -1,0 +1,3 @@
+-tickrate 128
++cl_updaterate 128
++cl_cmdrate 128
